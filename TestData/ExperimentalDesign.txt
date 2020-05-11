@@ -1,0 +1,13 @@
+	Treatment1	Treatment2
+Aa1	1	+
+Aa2	1	+
+Aa3	1	+
+Ab1	1	-
+Ab2	1	-
+Ab3	1	-
+Ba1	2	+
+Ba2	2	+
+Ba3	2	+
+Bb1	2	-
+Bb2	2	-
+Bb3	2	-
